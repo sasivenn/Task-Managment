@@ -17,7 +17,7 @@ In the project, we will be creating a Complete Task Managment Application with a
 - [Framer Motion](https://framer.com/motion/)
 - [React icons](https://react-icons.netlify.com/)
 - [React Hot Toast](https://react-hot-toast.com/)
-- More...
+
 
 ## Requirements
 
@@ -28,3 +28,5 @@ In the project, we will be creating a Complete Task Managment Application with a
 
 1. Favicon: [Flaticon.com](https://www.flaticon.com/)
 1. Code Editor: [VS Code](https://code.visualstudio.com/)
+
+## Install npm before downloading the project into your local desktop
